@@ -1,0 +1,14 @@
+li a {
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background: white url("images/background.jpg") no-repeat;
+    background-size:cover;
+}
+
+ul {
+    list-style-type: none;
+  }
